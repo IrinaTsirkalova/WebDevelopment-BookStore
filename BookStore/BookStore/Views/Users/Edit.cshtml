@@ -1,0 +1,69 @@
+﻿@model BookStore.ViewModels.Users.EditVM
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Shared.cshtml";
+}
+
+<fieldset>
+    <legend align=" center">Edit user information:</legend>
+
+    <form action="/Users/Edit" method="post">
+        <div class="grid">
+            @Html.HiddenFor(b => b.User_Id)
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.Username)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.Username)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.Username)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.Password)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.Password)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.Password)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.FirstName)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.FirstName)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.FirstName)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.LastName)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.LastName)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.LastName)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    <input class="right" type="submit" value="Save" />
+                </div>
+            </div>
+        </div>
+    </form>
+
+</fieldset>
+
+
+

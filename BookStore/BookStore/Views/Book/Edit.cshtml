@@ -1,0 +1,142 @@
+﻿@model BookStore.ViewModels.Books.EditVM
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Shared.cshtml";
+}
+
+<fieldset>
+    <legend align=" center">Edit book information:</legend>
+
+    <form action="/Book/Edit" method="post">
+        <div class="grid">
+            @Html.HiddenFor(b => b.Book_Id)
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.ISBN)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.ISBN)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.ISBN)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.Title)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.Title)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.Title)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.AuthorName)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.AuthorName)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.AuthorName)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.genre)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.genre)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.genre)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login" style="margin-bottom:50px">Choose a genre:</div>
+            </div>
+            <div class="row">
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "6") Art
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "7") Biography
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "8") Business
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "9") Children's
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "10") Cookbooks
+                </div>
+            </div>
+            <div class="row">
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "1") Classics
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "5") Crime
+                </div>
+
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "2") Fantasy
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "11") Fiction
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "12") History
+                </div>
+            </div>
+            <div class="row">
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "13") Horror
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "17") Nonfiction
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "20") Psychology
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "18") Poetry
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "19") Religion
+                </div>
+            </div>
+            <div class="row">
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "3") Romance
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "14")Science
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "4") Thriller
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "15") Travel
+                </div>
+                <div class="genre1">
+                    @Html.RadioButtonFor(b => b.GenresId, "16") Young Adult
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="login">
+                    <input class="right" type="submit" value="Save" />
+                </div>
+            </div>
+        </div>
+    </form>
+
+</fieldset>
+
+
+

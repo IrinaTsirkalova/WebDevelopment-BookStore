@@ -1,0 +1,150 @@
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\BookStore.dll.config
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\BookStore.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\BookStore.pdb
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\csc.exe
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\csi.exe
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Webpages.Deployment.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Webpages.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Webpages.Razor.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Webpages.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Webpages.Deployment.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Webpages.Razor.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\Project\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\BookStore.dll.config
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\BookStore.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\BookStore.pdb
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\csc.exe
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\csi.exe
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Webpages.Deployment.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Webpages.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Webpages.Razor.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Webpages.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Webpages.Deployment.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Webpages.Razor.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\EntityFramework.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\EntityFramework.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.Migrations.Addbooks.resources
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.Migrations.Addbookupdate.resources
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.Migrations.BorrowedBooks.resources
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.Migrations.BorrowBooks.resources
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.Migrations.BorrowBooks1.resources
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.Migrations.Updatemig.resources
+D:\University\Second Year\Second Semester\Уеб програмиране 2\1.Course Project\BookStore\BookStore\obj\Debug\BookStore.Migrations.Genres.resources

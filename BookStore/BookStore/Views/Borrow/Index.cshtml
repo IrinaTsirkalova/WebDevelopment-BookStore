@@ -1,0 +1,43 @@
+﻿@model IEnumerable<BookStore.ViewModels.Borrow.IndexVM>
+
+@using BookStore.Entities
+
+@{
+    ViewBag.Title = "Borrow";
+    Layout = "~/Views/Shared/_Shared.cshtml";
+}
+
+
+<fieldset>
+    <legend align="center">Borrowed Books</legend>
+    <div class="grid">
+
+        <div class="row">
+            <div class="addBooks bold">Username:</div>
+            <div class="addBooks bold">Book Title:</div>
+            <div class="addBooks bold">Book Genre:</div>
+            <div class="addBooks bold">Borrowed copies:</div>
+            <div class="addBooks bold">Rent date:</div>
+            <div class="addBooks bold">Return date:</div>
+        </div>
+        @foreach (var item in Model )
+        {
+    <div class="row">
+
+        <div class="addBooks">@item.Username</div>
+        <div class="addBooks">@item.Title</div>
+        <div class="addBooks">@item.GenreName</div>
+        <div class="addBooks">@item.numBook</div>
+        <div class="addBooks">@item.BorrowDate</div>
+        <div class="addBooks">@item.ReturnDate</div>
+
+    </div>
+        }
+
+
+
+
+        <a href="/Book/Index" class="change1">Borrow more books</a>
+
+    </div>
+</fieldset>

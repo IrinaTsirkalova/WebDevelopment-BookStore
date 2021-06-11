@@ -1,0 +1,211 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+
+header {
+    background-color: #dda3b2;
+    padding: 5%;
+    text-align: center;
+    font-size: 250%;
+    font-family: 'DejaVu Serif';
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    background-color: #4f2f3d;
+    clear: both;
+    color: white;
+    padding: 1%;
+    text-align: center;
+}
+
+.menu ul {
+    
+    list-style: none;
+    width: 99%;
+    display: inline-block;
+    margin: 0;
+    padding: 5px;
+    margin-left:2px;
+    background-color: #4f2f3d;
+    border: 1px solid black;
+}
+
+    .menu ul li {
+        float: left;
+        margin-left: 3px;
+        font-size: 130%;
+        background-color: #ecccd5;
+        padding: 20px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        border-radius: 5%;
+    }
+
+        .menu ul li a {
+            margin: 0px 10px;
+            font-size: 18px;
+            text-decoration: none;
+            color: blue;
+            overflow: auto;
+            text-align: center;
+            color: #4f2f3d;
+            text-decoration: none;
+        }
+.menu a:hover {
+    color: #f8eef1;
+}
+
+body {
+    background-color: #dda3b2;
+ 
+}
+.bodyHome{
+   margin-bottom:30%;
+}
+
+
+.mainTopic {
+    margin-top:0;
+    width: 100%;
+    height:550px;
+    display: inline-block;
+    background-color: lightpink;
+   
+}
+
+
+legend {
+    font-size: 25px;
+    color: #4f2f3d;
+    border-color: #4f2f3d;
+}
+
+fieldset {
+    border-color: #4f2f3d;
+    padding: 10px;
+    margin: 10px;
+}
+.grid {
+    clear: both;
+    display: block;
+}
+
+    .grid input[type=text] {
+        width: 100%;
+        background-color: #f8eef1;
+        margin:2px;
+        padding:5px;
+        
+    }
+
+    .grid input[type=password] {
+        width: 100%;
+        background-color: #f8eef1;
+        margin: 2px;
+        padding: 5px;
+    }
+
+    .grid .row .addBooks {
+        display: inline-block;
+        width: 200px;
+        background-color: #ecccd5;
+        border-top: solid 1px;
+        border-bottom: solid 1px;
+        margin-bottom: 2px;
+        font-size: 15px;
+        font-family: 'DejaVu Serif';
+        text-align: center;
+        
+
+    }
+
+    .grid .row .col-1 {
+        display: inline-block;
+        width: 250px;
+        background-color: #ecccd5;
+        border-top: solid 1px;
+        border-bottom: solid 1px;
+        margin-bottom: 2px;
+        font-size: 15px;
+        font-family: 'DejaVu Serif';
+        text-align: center;
+    }
+
+    .grid .login {
+        display: inline-block;
+        width: 50%;
+        font-size: 20px;
+        color: #4f2f3d;
+        background-color: #dda3b2;
+        margin-left: 25%;
+    }
+
+    .grid .row .genre1 {
+        display: inline-block;
+        width: 150px;
+        margin-bottom: 5px;
+        font-size: 16px;
+        font-family: 'DejaVu Serif';
+        text-align: center;
+        margin-left:100px;
+        margin-bottom:5px;
+       
+    }
+    
+
+    .grid .row .col-3 {
+        display: inline-block;
+        width: 400px;
+        background-color:aquamarine;
+    }
+
+input[type=submit] {
+    margin-left: 46%;
+    font-size: 15px;
+    font-family :'DejaVu Serif';
+    padding:5px;
+    border-radius:5px;
+}
+
+.grid .change {
+    color: #4f2f3d;
+    text-decoration: none;
+}
+    .grid .change:hover {
+        color: white;
+        text-decoration: none;
+    }
+
+.grid .change1 {
+    color: #4f2f3d;
+    text-decoration: none;
+    border: solid 1px;
+    border-radius: 2px;
+    background-color: #f1f1f3;
+    margin-top: 5px;
+    float: left;
+    padding:5px;
+    font-size: 20px;
+}
+
+.grid .validation {
+    display: inline-block;
+    width: 50%;
+    font-size: 20px;
+    color: #E5625E;
+    background-color: #dda3b2;
+    margin-top: -3px;
+    margin-bottom: 10px;
+    margin-left: 25%;
+}
+.bold {
+    font-weight: bold;
+}
+.bookError{
+    font-size:50px;
+    text-align:center;
+}
+   

@@ -1,0 +1,110 @@
+﻿@model BookStore.ViewModels.Borrow.IndexVM
+
+@{
+    ViewBag.Title = "Borrow";
+    Layout = "~/Views/Shared/_Shared.cshtml";
+}
+
+<fieldset>
+    <legend align=" center">Borrow book:</legend>
+
+    <form action="/Borrow/Borrow" method="post">
+        <div class="grid">
+            @Html.HiddenFor(b => b.Borrow_Id)
+            @Html.HiddenFor(b => b.Book_Id)
+            @Html.HiddenFor(b => b.User_Id)
+
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.Username)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.Username)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.Username)
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.ISBN)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.ISBN)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.ISBN)
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.Title)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.Title)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.Title)
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.AuthorName)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.AuthorName)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.AuthorName)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.numBook)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.numBook)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.numBook)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.BorrowDate)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.BorrowDate)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.BorrowDate)
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(b => b.ReturnDate)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(b => b.ReturnDate)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(b => b.ReturnDate)
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="login">
+                    <input class="right" type="submit" value="Borrow" />
+                </div>
+            </div>
+        </div>
+    </form>
+
+</fieldset>
+
+

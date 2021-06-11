@@ -1,0 +1,45 @@
+﻿@model IEnumerable<BookStore.ViewModels.Books.AddVM>
+    @using BookStore.Entities
+    @{
+        ViewBag.Title = "Books";
+        Layout = "~/Views/Shared/_Shared.cshtml";
+    }
+
+    <fieldset>
+        <legend align="center">Books</legend>
+        <div class="grid">
+
+            <div class="row">
+                <div class="addBooks bold">Book Id</div>
+                <div class="addBooks bold">ISBN</div>
+                <div class="addBooks bold">Title</div>
+                <div class="addBooks bold">AuthorName</div>
+                <div class="addBooks bold">Genre</div>
+
+                <div class="addBooks bold">Change</div>
+            </div>
+            @foreach (var item in Model)
+            {
+                <div class="row">
+
+                    <div class="addBooks">@item.Book_Id</div>
+                    <div class="addBooks">@item.ISBN</div>
+                    <div class="addBooks">@item.Title</div>
+                    <div class="addBooks">@item.AuthorName</div>
+                    <div class="addBooks">@item.genre</div>
+
+
+                    <div class="addBooks">
+                        <a href="/Borrow/Borrow?id=@item.Book_Id" class="change">borrow</a>
+                        <a href="/Book/Edit?id=@item.Book_Id" class="change">edit</a>
+                        <a href="/Book/Delete?id=@item.Book_Id" class="change">delete</a>
+                    </div>
+                </div>
+            }
+
+            <a href="/Book/Add" class="change1">Add more books</a>
+
+        </div>
+    </fieldset>
+
+

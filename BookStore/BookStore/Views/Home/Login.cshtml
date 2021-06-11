@@ -1,0 +1,46 @@
+﻿@model BookStore.ViewModels.Home.LoginVM
+
+@{
+    Layout = "~/Views/Shared/_Shared.cshtml";
+}
+
+<fieldset>
+    <legend align="center">Login</legend>
+
+    <form action="/Home/Login" method="post">
+        <div class="grid">
+            <div>
+                <div class="login">
+                    @Html.LabelFor(m => m.Username)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(m => m.Username)
+                </div>
+                <div class="login">
+                    @Html.ValidationMessageFor(m => m.Username)
+                </div>
+            </div>
+            <div>
+                <div class="login">
+                    @Html.LabelFor(m => m.Password)
+                </div>
+                <div class="login">
+                    @Html.PasswordFor(m => m.Password)
+                </div>
+                <div class="login">
+                    @Html.ValidationMessageFor(m => m.Password)
+                </div>
+            </div>
+            <div>
+                <div class="login">
+                    @Html.ValidationMessage("AuthError")
+                </div>
+            </div>
+            <div>
+                <div class="login">
+                    <input type="submit" value="Login"  />
+                </div>
+            </div>
+        </div>
+    </form>
+</fieldset>

@@ -1,0 +1,68 @@
+﻿@using BookStore.Entities
+@{
+    User loggedUser = Session["loggedUser"] == null
+                                ? null
+                                : (User)Session["loggedUser"];
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+    <link href="~/Content/style.css" rel="stylesheet" />
+    
+</head>
+<body>
+    <header>
+
+        <img src="~/Content/Image/January1.jpg" alt="Sample Photo" class="imageHeader"
+             height="450" width="1490" />
+
+    </header>
+    <nav class="menu">
+        <ul>
+            <li>
+                <a href="/Home/Index"> Home</a>
+            </li>
+            <li>
+                <a href="/Book/Index">All books</a>
+            </li>
+            <li>
+                <a href="/Users/Index">List of all users</a>
+            </li>
+            <li>
+                <a href="/Borrow/Index">Borrowed books</a>
+            </li>
+            <li>
+                <a href="/Genre/Index">Book's genres</a>
+            </li>
+            <li>
+                @if (loggedUser == null)
+                {
+                    <a href="/Home/Login">Login</a>
+                }
+                else
+                {
+                    <a href="/Home/Logout">Logout</a>
+                }
+            </li>
+            <li style="float:right">
+                <a href="/Users/Registration">Register</a>
+            </li>
+
+        </ul>
+    </nav>
+    <div class="body">
+        @RenderBody()
+    </div>
+
+    <footer >
+        <div class="footer">
+            &copy; 2020 Copyright:
+
+        </div>
+     </footer>
+</body>
+</html>

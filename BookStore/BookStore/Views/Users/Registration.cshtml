@@ -1,0 +1,69 @@
+﻿@model BookStore.ViewModels.Users.RegistrationVM
+
+@{
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_Shared.cshtml";
+}
+
+<fieldset>
+    <legend align=" center">New librarian registration</legend>
+
+    <form action="/Users/Registration" method="post">
+        <div class="grid">
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(l => l.FirstName)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(l => l.FirstName)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(l => l.FirstName)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(l => l.LastName)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(l => l.LastName)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(l => l.LastName)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(l => l.Username)
+                </div>
+                <div class="login">
+                    @Html.TextBoxFor(l => l.Username)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(l => l.Username)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+                    @Html.LabelFor(l => l.Password)
+                </div>
+                <div class="login">
+                    @Html.PasswordFor(l => l.Password)
+                </div>
+                <div class="validation">
+                    @Html.ValidationMessageFor(l => l.Password)
+                </div>
+            </div>
+            <div class="row">
+                <div class="login">
+
+                        <input type="submit" value="Register" />
+                   
+                </div>
+            </div>
+        </div>
+    </form>
+
+</fieldset>
+
+

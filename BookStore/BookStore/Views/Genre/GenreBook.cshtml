@@ -1,0 +1,36 @@
+﻿@model IEnumerable<BookStore.ViewModels.Genres.GenreVM>
+@using BookStore.Repositories
+
+    @{
+        ViewBag.Title = "GenreBook";
+        Layout = "~/Views/Shared/_Shared.cshtml";
+    }
+    <fieldset>
+        <legend align="center"></legend>
+        <div class="grid">
+
+            <div class="row">
+                <div class="addBooks bold" style="margin-left:350px">Book Title:</div>
+                <div class="addBooks bold">Book Author:</div>
+                <div class="addBooks bold">Borrow:</div>
+
+            </div>
+            @foreach (var item in Model)
+            {
+                BookStoreDbContext db = new BookStoreDbContext();
+
+        <div class="row" style="margin-left:350px; ">
+
+            <div class="addBooks">@item.title</div>
+            <div class="addBooks">@item.BookAuthor</div>
+            <a href="/Borrow/Borrow?id=@item.BookId" class="addBooks" style="text-decoration: none; color:black;">borrow</a>
+
+        </div>
+                
+                    }
+
+
+                </div>
+    </fieldset>
+
+

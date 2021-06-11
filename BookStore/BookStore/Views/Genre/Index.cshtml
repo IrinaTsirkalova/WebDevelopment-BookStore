@@ -1,0 +1,33 @@
+﻿@using BookStore.Entities
+@using BookStore.Repositories
+@model IEnumerable<BookStore.ViewModels.Genres.GenreVM>
+    
+
+
+    @{
+        ViewBag.Title = "Index";
+        Layout = "~/Views/Shared/_Shared.cshtml";
+    }
+
+
+    <fieldset>
+        <legend align="center">All book genres</legend>
+        <div class="grid">
+            
+            @{ BookStoreDbContext db = new BookStoreDbContext();
+                foreach (var genre in db.Genres)
+                {
+                    <div class="row">
+
+                                    <div class="addBooks" style="margin-left:620px">
+                                        @Html.ActionLink(genre.GenresName,"GenreBook", new { id = genre.GenresId })
+                                    </div>
+
+                    </div>
+                }}
+
+
+
+        </div>
+    </fieldset>
+
